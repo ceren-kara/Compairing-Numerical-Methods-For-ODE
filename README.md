@@ -1,1 +1,2 @@
-# Compairing-Numerical-Methods-For-ODE
+# Numerical-Methods-For-ODEs
+
